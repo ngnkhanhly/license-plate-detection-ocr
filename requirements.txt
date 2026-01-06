@@ -1,0 +1,16 @@
+# Core
+torch>=1.12.0
+torchvision>=0.13.0
+numpy
+opencv-python
+pillow
+albumentations
+pycocotools
+datasets>=2.0.0
+torchmetrics
+scikit-learn
+matplotlib
+
+
+# optional for nicer progress
+tqdm
